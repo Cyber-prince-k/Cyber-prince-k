@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Prince Kamanga
 - 👀 I’m interested in Art exploration
 - 🌱 I’m currently learning at NACIT
-- Have a diploma in computing 
+- Have a diploma in computing
+- have a advanced diploma in computing 
 - 📫 0996850711 / princekamnga1@gmail.com
 - 😄 MR
 - ⚡ eat alot
