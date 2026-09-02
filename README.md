@@ -14,10 +14,7 @@
 - Arduino and ESP32 embedded-system projects
 - Networking and cybersecurity fundamentals
  Current goals
-- Build a strong portfolio of practical projects
-- Gain internship or junior software-development experience
-- Improve my database and software-development skills
-- Collaborate on meaningful open-source and technology projects
+-
 
 
 
