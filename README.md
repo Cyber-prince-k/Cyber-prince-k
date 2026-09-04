@@ -13,11 +13,10 @@
 - 🎓 Bachelor of Science (Hons) in Computing and Information Systems
 - 🎓 Advanced Diploma in Computing and Information Systems
 - 🎓 Diploma in Computing and Information Systems
-- 💻 Passionate about frontend and full-stack web development
+- 💻 Passionate about frontend and full-stack development in web, mobile and desktop appliactions
 - 🗄️ Interested in database design, SQL, Oracle, and information systems
 - 🔧 Interested in Arduino, ESP32, RFID, sensors, relays, and automation
 - 🛠️ Skilled in computer troubleshooting and technical support
-- 🚀 Open to graduate, entry-level, internship, and freelance opportunities
 - 📍 Based in Zomba, Malawi
 
 <h3 align="left">Education:</h3>
@@ -25,8 +24,6 @@
 - Bachelor of Science (Honours) in Computing and Information Systems
 - Advanced Diploma in Computing and Information Systems
 - Diploma in Computing and Information Systems
-
-<h3 align="left">Certificates:</h3>
 
 <p align="left">
   <!-- Add your certificates here when you are ready to display them -->
@@ -135,10 +132,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">Currently Learning:</h3>
-
-- Advanced web application development
-- Database administration and information systems
-- Embedded systems and Internet of Things development
-- Freelancing and remote technology services
